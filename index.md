@@ -17,6 +17,10 @@
 </script>
 {% endraw %}
 
+> *The Birth of Tragedy claims that Western culture reached a high point in Ancient Athens, in the tragic drama of Aeschylus and Sophocles. Their plays, Nietzsche argues, perfectly blend the revelry of Dionysus, god of the vine, with the rationality of Apollo, god of the sun and [clear sight](https://ukubona-llc.github.io)*      
+> -- [Shakespeare Contra Nietzsche](https://themarginaliareview.com/shakespeare-contra-nietzsche-andrew-lanham/)      
+
+
 Short answer first, then the texture.
 
 ### The [aphoristic geniuses](https://ukb-dt.github.io/yebo-07/) (properly speaking)
