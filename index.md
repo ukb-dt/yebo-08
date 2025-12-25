@@ -50,7 +50,7 @@ Short answer first, then the texture.
 
 ---
 
-### The near-misses (genius, but not aphoristic)
+### [The near-misses](https://ukb-dt.github.io/yebo-09/)) (genius, but not aphoristic)
 
 **Shakespeare** — *anti-aphoristic genius*
 
